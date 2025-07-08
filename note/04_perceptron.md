@@ -223,6 +223,8 @@ As the perceptron model is like binary classification that’s why we call the p
 
 ![Alt text](img/image-4.png)
 
+```perceptron e x1,x2 inputs thake, arekta input thake seta holo bias (b). jeta 1 hoy. sekhane weights thake. such as w1,w2...wn based on inputs. Input gula summation block e connected thake and sekhane z calculate kora hoy. z = w1x1 + w2x2 + b.  ei z k pathano hoy activation function e . sekhane z ke ekta given range [-1,1] e niye asha hoy step function use korar maddhome, jodi z>0 hoy tahole 1 return kore, z<0 hole 0 return kore.```
+
 **ফিগার: পারসেপ্ট্রন**
 
 ---
