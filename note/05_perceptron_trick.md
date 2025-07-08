@@ -1,4 +1,5 @@
-
+Click here for codes [Codes]()
+---
 # Perceptron Trick:
 
 ![Alt text](img/image-11.png)
