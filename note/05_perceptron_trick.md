@@ -1,4 +1,4 @@
-Click here for codes [Codes]()
+Click here for codes 👉🏻[Codes]()
 ---
 # Perceptron Trick:
 
