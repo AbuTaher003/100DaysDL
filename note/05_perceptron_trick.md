@@ -1,4 +1,4 @@
-Click here for codes 👉🏻[Codes]()
+Click here for codes 👉🏻[Codes](https://github.com/AbuTaher003/Deep-Learning-DL/blob/main/Codes/05_%20Perceptron%20Trick%20%7C%20How%20to%20train%20a%20Perceptron%20%7C%20Perceptron%20Part%202%20%7C.ipynb)
 ---
 # Perceptron Trick:
 
