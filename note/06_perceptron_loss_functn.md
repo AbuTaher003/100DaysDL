@@ -1,4 +1,5 @@
 Click here for codes 👉🏻[click](https://github.com/AbuTaher003/Deep-Learning-DL/blob/main/Codes/06_Perceptron%20Loss%20Function%20%7C%20Hinge%20Loss%20%7C%20Binary%20Cross%20Entropy%20%7C%20Sigmoid%20Function.ipynb)
+---
 
 # Lost Function: (Lecture-06)
 
