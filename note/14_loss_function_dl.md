@@ -40,7 +40,7 @@ Neural Network এ আমরা প্রথমে weight and bias এর random
 
 ![Alt text](img/image-56.png)
 
-`loss function শুধু একটা single dataset এর entity বা row  এর উপর কাজ করে । কিন্তু, cost function(এর equation ছবিতে দেওয়া আছে) পুরো একটা batch বা একটা epochs এর উপর কাজ করে । `
+`loss function শুধু একটা single dataset এর entity বা row  এর উপর কাজ করে । কিন্তু, cost function(এর equation ছবিতে দেওয়া আছে) পুরো একটা batch বা একটা epochs এর উপর কাজ করে । ` ```Cost function = 1/n * Summation of all loss functions.```
 
 <br>
 
