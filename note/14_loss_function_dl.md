@@ -15,7 +15,7 @@
 
 
 # Why loss function is important?
-`You can't improve what you can't measure.`
+`You can't improve what you can't measure.` --🗣️ Peter Drucker
 
 <br>
 
