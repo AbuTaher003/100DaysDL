@@ -1,4 +1,5 @@
-
+For Hand notes you can check here 👉🏻 [Note](https://drive.google.com/file/d/1jIHPl8kmqQtvLFhD8SZPmSl0FbP_wPiv/view?usp=drive_link)
+---
 <br>
 
 ---
