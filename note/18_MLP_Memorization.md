@@ -26,6 +26,10 @@
 
 <br>
 
+![Alt text](img/img2102001.png)
+
+---
+
 ![Alt text](img/image-112.png)
 
 আমরা যতই  neural network এর যত ইনপুট এর দিকে যাচ্ছী ততই আমাদের derivative complex হওয়া শুরু করছে আর derivative repeat হচ্ছে । এখানে, back propagation algorithm memoization ব্যবহার করে । 
