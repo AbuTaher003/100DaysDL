@@ -31,7 +31,7 @@ For codes click [Here]()
 
 - `এখন কতক্ষন পর্যন্ত আমরা hidden layer add করতে থাকবো ?`  উওর হচ্ছে,  যতক্ষন না পযন্ত neural network এ overfitting হচ্ছে ।   
 
-- `multiple hidden layer ব্যবহার করার আর একটা সুবিধা হচ্ছে । **Transfer Learning** ` এইখানে হয় যে, আমরা একটা  neural network দিয়ে একটা মানুষের face recognition এর জন্য ব্যবহার করলাম । তারপর সেইটাকে আমরা যদি একটা বানরের চেহারা recognition এর জন্য ব্যবহার করতে চায় তাহলে বানর আর মানুষের face এর মধ্যে একটা মিল আছে । এর জন্য আমরা প্রথম কয়েকটা neural network এর hidden layer আগের মতো ব্যবহার করে বাকী গুলো আবার নতুন ভাবে train করতে পারবো । আর এইটাকে Transfer Learning বলে । 
+- `multiple hidden layer ব্যবহার করার আর একটা সুবিধা হচ্ছে । **Transfer Learning** ` এইখানে হয় যে, আমরা একটা  neural network দিয়ে একটা মানুষের face recognition এর জন্য ব্যবহার করলাম । তারপর সেইটাকে আমরা যদি একটা বানরের চেহারা recognition এর জন্য ব্যবহার করতে চায় তাহলে বানর আর মানুষের face এর মধ্যে একটা মিল আছে । এর জন্য আমরা neural network এর প্রথম কয়েকটা hidden layer আগের মতো ব্যবহার করে বাকী গুলো আবার নতুন ভাবে train করতে পারবো । আর এইটাকে Transfer Learning বলে । 
 
 ---
 
