@@ -37,7 +37,7 @@ For codes click [Here]()
 
 # প্রত্যেক লেয়ারে আমাদের কতগুলো  Neuron or Node থাকবেঃ 
 
-- `input layer এ যত গুলো থাকবে তত গুলো Node করতে হবে । `
+- `input layer এ যত গুলো column থাকবে তত গুলো Node করতে হবে । `
 
 - `input layer এ আমরা কোন ধরনের সমস্যা সমাধান করতেছি তার উপর নির্ভর করে । যেমনঃ Multi-Class-Classification প্রবলেম এর জন্য যত গুলো class থাকবে তত গুলো node থাকবে output layer এ । Regression প্রবলেমের ক্ষেত্রে একটা output layer এ একটা  node থাকবে । `
 
