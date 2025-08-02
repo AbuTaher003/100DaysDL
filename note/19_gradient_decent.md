@@ -1,3 +1,4 @@
+For codes click [here](https://github.com/AbuTaher003/Deep-Learning-DL/blob/main/Codes/19_Batch%20vs%20stochastic.ipynb)
 ---
 
 <br> <br> <br>
