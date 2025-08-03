@@ -1,3 +1,4 @@
+For codes click [here](https://github.com/AbuTaher003/Deep-Learning-DL/blob/main/Codes/23_Data%20Scaling%20in%20Neural%20Network%20%7C%20Feature%20Scaling%20in%20ANN.ipynb)
 ---
 ---
 
