@@ -1,4 +1,4 @@
-
+For codes click [here](https://github.com/AbuTaher003/Deep-Learning-DL/blob/main/Codes/21_Early%20Stopping.ipynb)
 ---
 
 # Early Stopping:
