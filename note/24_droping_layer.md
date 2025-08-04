@@ -1,4 +1,4 @@
-
+For hand notes click [here](https://1drv.ms/u/s!AkwmrKmcoHD6d9bp6SAD4X9QLGk)
 ---
 
 # Droping Layer In a Neural Network:
