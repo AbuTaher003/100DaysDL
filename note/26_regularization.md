@@ -1,3 +1,4 @@
+Click [here](https://github.com/AbuTaher003/Deep-Learning-DL/blob/main/Codes/26_Regularization.ipynb) for codes
 ---
 
 # Regularization 
